@@ -1,0 +1,79 @@
+
+C:\Users\khan\Desktop\Experian\Scripts\web\stockquery\cgi-bin\automation>cd .. 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\stockquery\cgi-bin>cd input 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\stockquery\cgi-bin\input>perl extractYahooStocks.pl 
+Terminate batch job (Y/N)? 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\stockquery\cgi-bin\input>perl deleteDB.pl 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\stockquery\cgi-bin\input>perl insertStocksToDB.pl 
+Processing AAU ...Done
+Processing ACU ...Done
+Processing ACY ...Done
+Processing ADGE ...Done
+Processing ADK ...Done
+Processing AE ...Done
+Processing AGX ...Done
+Processing AIM ...Done
+Processing ALN ...Done
+Processing AMS ...Done
+Processing ANV ...Done
+Processing ANX ...Done
+Processing API ...Done
+Processing APP ...Done
+Processing APT ...Done
+Processing AQ ...Done
+Processing AQQ ...Done
+Processing ASM ...Done
+Processing ATC ...Done
+Processing ATL ...Done
+Processing AVL ...Done
+Processing AWX ...Done
+Processing AXK ...Done
+Processing AXU ...Done
+Processing AXX ...Done
+Processing AZC ...Done
+Processing AZK ...Done
+Processing BAA ...Done
+Processing BCV ...Done
+Processing BDR ...Done
+Processing BFY ...Done
+Processing BHB ...Done
+Processing BHV ...Done
+Processing BKJ ...Done
+Processing BKR ...Done
+Processing BLE ...Done
+Processing BLJ ...Done
+Processing BMJ ...Done
+Processing BONE ...Done
+Processing BPS ...Done
+Processing BRD ...Done
+Processing BRN ...Done
+Processing BTI ...Done
+Processing BTN ...Done
+Processing BTX ...Done
+Processing BVX ...Done
+Processing BZC ...Done
+Processing BZM ...Done
+Processing CAK ...Done
+Processing CAW ...Done
+Processing CDY ...Done
+Processing CEF ...Done
+Processing CET ...Done
+Processing CH ...Done
+Processing CVM ...Done
+Processing CXM ...Done
+Processing DIT ...Done
+Processing ETF ...Done
+Processing FAX ...Done
+Processing FCO ...Done
+Processing GTU ...Done
+Processing HRT ...Done
+Processing IAF ...Done
+Processing IF ...Done
+Processing ISL ...Done
+Processing RNJ ...Done
+Processing RNY ...Done
+Processing ROX ...Done
